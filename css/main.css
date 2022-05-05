@@ -1,2 +1,12 @@
-    h1{ background-color: green
-    }
+.container {
+    display: flex;
+    justify-content: center;
+    max-width: 500px;
+    margin: auto;
+    flex-direction: column;
+}
+div {
+    height: 50vh;
+    width: 100%;
+    background-color: powderblue;
+}
